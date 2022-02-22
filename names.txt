@@ -1,2 +1,3 @@
-boss,NetID,LastName,FirstName
+role, NetID, LastName, FirstName
+boss, jxyang, Yang, Justin
 employee, jlivingston4, Livingston, Jordan
